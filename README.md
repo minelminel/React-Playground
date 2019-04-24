@@ -1,4 +1,5 @@
 # React Playground :atom_symbol:
+### current functionality: recipe interface
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
